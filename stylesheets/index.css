@@ -1,0 +1,14 @@
+#sence{
+	width: 600px;
+	height: 600px;
+	box-shadow:0 0 10px black;
+	border-radius: 15px;
+	background: #84490A;
+	margin:30px auto;
+	position: relative;
+}
+.block{
+	border-radius: 100%;
+	float: left;
+	margin: 0 1px 1px 0;
+}
